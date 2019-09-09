@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper {
+    margin: 0px auto;
+    width: 98%;
+    /* border: 1px solid red; */
+    text-align: center;
+}
+
+
+.wrapper-left {
+    margin-left: 100px;
+    /* border: 1px solid red; */
+    text-align: left;
+}
+
+.my-container {
+    width: 48%;
+    /* border: 1px solid blue; */
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px 0px;
+}
+
+.col-form-label {
+    text-align: left;
+}
+
+.ib-1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+}
+
+.ib-2 {
+    display: inline-block;
+    vertical-align: top;
+    width: 450px;
+    /* border: 1px solid green; */
+}
